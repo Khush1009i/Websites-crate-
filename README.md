@@ -1,2 +1,3 @@
-# Cloning-website-
-trying and creating the clone of some websites with myself and taking help from Youtube creators...!
+sites overview
+The restaurant site - https://ks-restaurent-site.netlify.app/
+clone of microsoft site - https://ks-micros0ft-cl0ne.netlify.app/
